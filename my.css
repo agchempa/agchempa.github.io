@@ -3,7 +3,17 @@ body {
     max-width: 650px;
     line-height: 1.6;
     font-size: 18px;
-    /*color: #444;*/
+    font-family: sans-serif;
     padding: 0 10px;
 }
 /*inspired by http://bettermotherfuckingwebsite.com/*/
+
+p {
+	text-align: justify;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
